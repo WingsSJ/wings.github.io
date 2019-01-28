@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>code~player~</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.codeplayer.fun/"/>
+  <updated>2019-01-27T17:59:32.863Z</updated>
+  <id>http://www.codeplayer.fun/</id>
+  
+  <author>
+    <name>wings</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么情况</title>
+    <link href="http://www.codeplayer.fun/2019/01/28/%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/"/>
+    <id>http://www.codeplayer.fun/2019/01/28/什么情况/</id>
+    <published>2019-01-27T17:44:29.000Z</published>
+    <updated>2019-01-27T17:59:32.863Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天星期一"><a href="#今天星期一" class="headerlink" title="今天星期一"></a>今天星期一</h2><p> 有人在楼附近大喊大叫 很闹 爬起来吃点东西 正好电脑没关 顺便写点啥~<br> 看来 今天应该不会下雨 要是早上有人把我踹醒就好了 好吧现在有点困了<br> 继续睡~ over~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;今天星期一&quot;&gt;&lt;a href=&quot;#今天星期一&quot; class=&quot;headerlink&quot; title=&quot;今天星期一&quot;&gt;&lt;/a&gt;今天星期一&lt;/h2&gt;&lt;p&gt; 有人在楼附近大喊大叫 很闹 爬起来吃点东西 正好电脑没关 顺便写点啥~&lt;br&gt; 看来 今天应该不会下雨 要是早上有
+      
+    
+    </summary>
+    
+    
+      <category term="虾扯蛋" scheme="http://www.codeplayer.fun/tags/%E8%99%BE%E6%89%AF%E8%9B%8B/"/>
+    
+  </entry>
+  
+</feed>
