@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.codeplayer.fun/"/>
+  <link href="https://www.codeplayer.fun/"/>
   <updated>2019-01-27T17:59:32.863Z</updated>
-  <id>http://www.codeplayer.fun/</id>
+  <id>https://www.codeplayer.fun/</id>
   
   <author>
     <name>wings</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>什么情况</title>
-    <link href="http://www.codeplayer.fun/2019/01/28/%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/"/>
-    <id>http://www.codeplayer.fun/2019/01/28/什么情况/</id>
+    <link href="https://www.codeplayer.fun/2019/01/28/%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/"/>
+    <id>https://www.codeplayer.fun/2019/01/28/什么情况/</id>
     <published>2019-01-27T17:44:29.000Z</published>
     <updated>2019-01-27T17:59:32.863Z</updated>
     
@@ -35,7 +35,7 @@
     </summary>
     
     
-      <category term="虾扯蛋" scheme="http://www.codeplayer.fun/tags/%E8%99%BE%E6%89%AF%E8%9B%8B/"/>
+      <category term="虾扯蛋" scheme="https://www.codeplayer.fun/tags/%E8%99%BE%E6%89%AF%E8%9B%8B/"/>
     
   </entry>
   
