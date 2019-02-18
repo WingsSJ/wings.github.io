@@ -60,6 +60,12 @@
 <div class="intrude-less">
     <header id="header" class="inner">
         
+        <div class="music">
+            <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="246" height="40" src="//music.163.com/outchain/player?type=2&id=19563211&auto=1&height=32"></iframe>
+        </div>
+        <br>
+        
+        
 <script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script>
 
         <a href="/" class="profilepic">
@@ -84,7 +90,7 @@
                     function getMatchData(keyword, data) {
                         var matchData = [];
                         for(var i =0;i<data.length;i++){
-                            if(data[i].title.toLowerCase().indexOf(keyword)>=0) 
+                            if(data[i].title.toLowerCase().indexOf(keyword)>=0)
                                 matchData.push(data[i])
                         }
                         return matchData;
@@ -96,7 +102,7 @@
                             url: '/search.json',
                             dataType: "json",
                             success: function( json ) {
-                                var str='<ul class=\"search-result-list\">';                
+                                var str='<ul class=\"search-result-list\">';
                                 var keyword = $input.val().trim().toLowerCase();
                                 $resultContent.innerHTML = "";
                                 if ($input.val().trim().length <= 0) {
@@ -109,7 +115,7 @@
                                     $resultContent.empty();
                                     $('#switch-area').show();
                                     return;
-                                } 
+                                }
                                 for(var i =0; i<results.length; i++){
                                     str += "<li><a href='"+ results[i].url +"' class='search-result-title'>"+ results[i].title +"</a></li>";
                                 }
@@ -188,7 +194,7 @@
                 
                 <section class="switch-part switch-part2">
                     <div class="widget tagcloud" id="js-tagcloud">
-                        <a href="/tags/水货/" style="font-size: 10px;">水货</a> <a href="/tags/硬核/" style="font-size: 10px;">硬核</a> <a href="/tags/虾扯蛋/" style="font-size: 10px;">虾扯蛋</a>
+                        <a href="/tags/开荒/" style="font-size: 10px;">开荒</a> <a href="/tags/新手/" style="font-size: 10px;">新手</a> <a href="/tags/硬核/" style="font-size: 10px;">硬核</a> <a href="/tags/虾扯蛋/" style="font-size: 10px;">虾扯蛋</a>
                     </div>
                 </section>
                 
